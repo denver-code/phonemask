@@ -1,5 +1,9 @@
 # phonemask
 
+# Demo  
+
+![](screen-20220321-130928.gif)
+
 A new Flutter project.
 
 ## Getting Started
